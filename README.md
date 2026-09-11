@@ -242,3 +242,6 @@ This repository serves as the official landing page for rFactor. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of rFactor today!**
+
+---
+**Last updated:** 2026-09-11 14:56:45 UTC
