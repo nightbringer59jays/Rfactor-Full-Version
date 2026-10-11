@@ -244,4 +244,4 @@ This repository serves as the official landing page for rFactor. The software is
 **Get the most recent version of rFactor today!**
 
 ---
-**Last updated:** 2026-10-11 00:47:26 UTC
+**Last updated:** 2026-10-11 06:59:19 UTC
